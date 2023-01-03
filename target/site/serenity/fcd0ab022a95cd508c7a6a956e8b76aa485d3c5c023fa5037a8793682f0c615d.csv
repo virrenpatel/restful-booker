@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Restful CURD test","This method will create a Tokken","SUCCESS","2023-01-03T13:26:33.025Z[Europe/London]","0.0","3.46"
+"Restful CURD test","This method will create a booking","SUCCESS","2023-01-03T13:26:36.500Z[Europe/London]","0.0","0.74"
+"Restful CURD test","This method will verify new Booking ID creation","SUCCESS","2023-01-03T13:26:37.245Z[Europe/London]","0.0","0.72"
+"Restful CURD test","This method will get booking with Id","SUCCESS","2023-01-03T13:26:37.964Z[Europe/London]","0.0","0.56"
+"Restful CURD test","This method will updated a booking with ID","SUCCESS","2023-01-03T13:26:38.524Z[Europe/London]","0.0","1.08"
+"Restful CURD test","This method will delete a booking with ID","SUCCESS","2023-01-03T13:26:39.609Z[Europe/London]","0.0","1.07"
